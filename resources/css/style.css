@@ -214,6 +214,7 @@ main{
     .container.sponsor{
         flex-direction: column;
         align-items: center;
+        gap: 20px;
     } 
     iframe{
         width: 100%;
